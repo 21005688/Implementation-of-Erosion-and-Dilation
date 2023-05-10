@@ -55,12 +55,11 @@ plt.title("Dilated Image")
 plt.imshow(image_dilate,'magma')
 plt.axis('off')
 ## Output:
+![llllllllllll](https://github.com/21005688/Implementation-of-Erosion-and-Dilation/assets/94747031/f6779e3a-58fe-47fd-85f8-2eb10f531de7)
 
 ### Display the input Image
 
-![llllllllllll](https://github.com/21005688/Implementation-of-Erosion-and-Dilation/assets/94747031/5ae66637-b939-4c39-8169-b42696ab1ea3)
 
-### Display the Eroded Image
 ![222222222222](https://github.com/21005688/Implementation-of-Erosion-and-Dilation/assets/94747031/5cb0ad59-3254-4aeb-ad27-7250d5f65263)
 
 
