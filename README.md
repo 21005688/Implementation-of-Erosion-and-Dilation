@@ -54,13 +54,20 @@ image_dilate = cv2.dilate(text_image,kernel)
 plt.title("Dilated Image")
 plt.imshow(image_dilate,'magma')
 plt.axis('off')
+
+```
 ## Output:
+
 
 ### Display the input Image
 
+![llllllllllll](https://github.com/21005688/Implementation-of-Erosion-and-Dilation/assets/94747031/48ee819d-37f3-4e22-a5c0-361c202456e2)
 
+### Display the Eroded Image
+![222222222222](https://github.com/21005688/Implementation-of-Erosion-and-Dilation/assets/94747031/59d3afba-a9d4-45e8-b385-466b3d2ea345)
 
 ### Display the Dilated Image
+![3333333333](https://github.com/21005688/Implementation-of-Erosion-and-Dilation/assets/94747031/31a3ce3d-635d-4461-a9ca-3825110298e5)
 
 
 ## Result
